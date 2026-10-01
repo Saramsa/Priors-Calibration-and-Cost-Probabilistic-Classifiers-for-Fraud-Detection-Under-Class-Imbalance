@@ -1,2 +1,2 @@
 # Priors-Calibration-and-Cost-Probabilistic-Classifiers-for-Fraud-Detection-Under-Class-Imbalance
-This study uses the ULB Credit Card Fraud dataset obtained from Kaggle. The dataset was not uploaded to the GitHub repository because its file size exceeds GitHub’s standard upload limits.
+This study uses the ULB Credit Card Fraud dataset from Kaggle. Because fraud data are highly imbalanced, undersampling may preserve ROC-AUC but distort predicted probabilities and lower AUC-PR. Prior correction, calibration, and cost-based thresholds are therefore essential to reduce decision costs. The dataset was not uploaded to GitHub because its size exceeds GitHub’s standard file-upload limit.
